@@ -1,7 +1,7 @@
 DTS.DbDescriptionUpdater
 ========================
 
-Database documentation tool for CodeFirst development. Addes MS_Descriptions to tables and columns.
+Database documentation tool for CodeFirst development. Adds MS_Descriptions to tables and columns.
 <h1>Install</h1>
 <p>Add reference to the DLL.</p>
 
