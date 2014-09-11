@@ -1,0 +1,10 @@
+C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\DTS.DbDescriptionUpdater.dll.config
+C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\DTS.DbDescriptionUpdater.dll
+C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\DTS.DbDescriptionUpdater.pdb
+C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\EntityFramework.dll
+C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\EntityFramework.xml
+C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\obj\Debug\DTS.DbDescriptionUpdater.csprojResolveAssemblyReference.cache
+C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\obj\Debug\DTS.DbDescriptionUpdater.dll
+C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\obj\Debug\DTS.DbDescriptionUpdater.pdb
