@@ -37,4 +37,4 @@ protected override void Seed(ConsoleApplication1.MyDbContext context)
 <p>That's it.</p>
 
 <h2>Props</h2>
-<p>I stumbled upon this class <a href="http://stackoverflow.com/questions/10080601/how-to-add-description-to-columns-in-entity-framework-4-3-code-first-using-migra">StackOverflow</a>. Much of the original code exists. I added some additional work at the attributes.
+<p>I stumbled upon this class on <a href="http://stackoverflow.com/questions/10080601/how-to-add-description-to-columns-in-entity-framework-4-3-code-first-using-migra">StackOverflow</a>. Much of the original code exists. I added some additional work at the attributes.
