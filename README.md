@@ -1,7 +1,9 @@
 DTS.DbDescriptionUpdater
 ========================
 
-Database documentation tool for CodeFirst development. Adds MS_Descriptions to tables and columns.
+Database documentation tool for CodeFirst development. Adds MS_Descriptions to tables and columns so there no need to manually add extended properties in MSSQL. Combine this with the power of 
+<a href="https://github.com/jeremykdev/SqlServerDatabaseDocumentationGenerator">jeremykdev/SqlServerDatabaseDocumentationGenerator</a> and you have an fricken sweet documentation tool. 
+
 <h1>Install</h1>
 <p>Add reference to the DLL.</p>
 
