@@ -25,7 +25,7 @@ protected override void Seed(ConsoleApplication1.MyDbContext context)
     public class Person { }
 </pre>
 
-<h3>Add Descriptions to Models Properties.</h3>
+<h3>Add Descriptions to Model Properties.</h3>
 <pre>
     [DbColumnMeta(Description = "Peron's first name.")]
     public string FirstName { get; set; }
