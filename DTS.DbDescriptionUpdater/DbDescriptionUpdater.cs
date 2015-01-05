@@ -12,10 +12,10 @@ using System.Text.RegularExpressions;
 namespace DTS.DbDescriptionUpdater
 {
     /// <summary>
-    /// Db Description Updater, seed database with model property descriptions. Descriptions will appear in Extended Properties of the column.
+    /// Db Description Updater, seed database with model property descriptions. Descriptions will appear in Extended Properties of the column. Virtual properties not supported.
     /// </summary>
     /// <remarks>
-    /// DbDescription updater does not require migraitons. It runs when update-database is called.
+    /// DbDescription updater does not require migrations. It runs when update-database is called.
     /// Install: 
     /// 1. Add reference to DTS.DbDescriptinUpdater
     /// 2. Add DbDescriptionUdater to Seed method in  Migrations/Configuration.cs

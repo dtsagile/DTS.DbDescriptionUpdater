@@ -8,3 +8,13 @@ C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\Enti
 C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\obj\Debug\DTS.DbDescriptionUpdater.csprojResolveAssemblyReference.cache
 C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\obj\Debug\DTS.DbDescriptionUpdater.dll
 C:\Projects\git\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\obj\Debug\DTS.DbDescriptionUpdater.pdb
+D:\github\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\DTS.DbDescriptionUpdater.dll.config
+D:\github\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\DTS.DbDescriptionUpdater.dll
+D:\github\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\DTS.DbDescriptionUpdater.pdb
+D:\github\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\EntityFramework.dll
+D:\github\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\EntityFramework.SqlServer.dll
+D:\github\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\EntityFramework.xml
+D:\github\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\bin\Debug\EntityFramework.SqlServer.xml
+D:\github\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\obj\Debug\DTS.DbDescriptionUpdater.csprojResolveAssemblyReference.cache
+D:\github\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\obj\Debug\DTS.DbDescriptionUpdater.dll
+D:\github\DTS.DbDescriptionUpdater\DTS.DbDescriptionUpdater\obj\Debug\DTS.DbDescriptionUpdater.pdb
